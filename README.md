@@ -1,3 +1,7 @@
 # PythonforNetwork
-for the project 
-for our team
+
+----------------------------------------------------------------------------------------------
+Use Python to get connect of Campus Wifi. 
+Here are the source code files.
+----------------------------------------------------------------------------------------------
+1.
